@@ -26,3 +26,7 @@ C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key
 C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\obj\Debug\pri.resfiles
 C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\obj\Debug\LanguageQualifiers.txt
 C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\obj\Debug\ProjectArchitectures.txt
+C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\obj\Debug\priconfig.xml.intermediate
+C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\obj\Debug\layout.resfiles.intermediate
+C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\obj\Debug\resources.resfiles.intermediate
+C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\obj\Debug\pri.resfiles.intermediate

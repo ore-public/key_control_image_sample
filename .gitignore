@@ -1,2 +1,2 @@
-./key_control_image_sample/bin/
-./key_control_image_sample/obj/
+key_control_image_sample/bin/Debug/*
+key_control_image_sample/obj/*

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="d434f068-8ee9-49c1-a481-48377a1e8436" Publisher="CN=雅也" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>key_control_image_sample</DisplayName>
+    <PublisherDisplayName>雅也</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>key_control_image_sample</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="ja-JP" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="key_control_image_sample.exe" EntryPoint="key_control_image_sample.App">
+      <VisualElements DisplayName="key_control_image_sample" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="key_control_image_sample" ForegroundText="light" BackgroundColor="#222222">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

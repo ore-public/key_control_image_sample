@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="key_control_image_sample.BlankPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:key_control_image_sample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundBrush}">
+        <Button x:ConnectionId='1' Content="起動" HorizontalAlignment="Left" Margin="472,193,0,0" VerticalAlignment="Top" Width="288" RenderTransformOrigin="-1.66700005531311,0.256000012159348" Height="76"                       />
+
+    </Grid>
+</Page>
+

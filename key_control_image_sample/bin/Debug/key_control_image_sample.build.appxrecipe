@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>dev</Machine>
+    <WindowsUser>雅也</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-04T01:09:19.904</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\key_control_image_sample.exe">
+      <PackagePath>key_control_image_sample.exe</PackagePath>
+      <Modified>2012-03-04T02:51:03.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\key_control_image_sample.pdb">
+      <PackagePath>key_control_image_sample.pdb</PackagePath>
+      <Modified>2012-03-04T02:51:03.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-02-14T05:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-02-14T05:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-02-14T05:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-02-14T05:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+      <Modified>2012-03-04T02:50:57.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-02-14T05:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\BlankPage.xaml">
+      <PackagePath>BlankPage.xaml</PackagePath>
+      <Modified>2012-03-04T01:17:03.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-03-04T01:06:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\雅也\Documents\Visual Studio 11\Projects\key_control_image_sample\key_control_image_sample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-04T01:09:19.525</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
